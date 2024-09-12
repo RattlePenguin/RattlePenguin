@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RattlePenguin, waiting to enter university
+- 👋 Hi, I’m @RattlePenguin, currently studying at UNSW
 - 👀 I’m interested in Programming, Math, Finance
-- 🌱 I’m currently learning Introductory Python and Math
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++ and Python
+- 💞️ I’m looking to collaborate on Software and Game Development
+- 📫 How to reach me...
 
 <!---
 RattlePenguin/RattlePenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
