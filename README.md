@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RattlePenguin, penultimate student and casual academic @ UNSW
-- 👀 I’m interested in Full Stack and Open Source Contribution
-- 🌱 I’m currently learning C# and Azure
-- 💞️ I’m looking to collaborate on Software, Games and other cool projects!
+- 👀 I’m interested in Full Stack Software Engineering
+- 🌱 I’m currently learning C# and Java
+- 💞️ I’m looking to collaborate on Open Source Software, Games and other cool projects!
 - 📫 [My LinkedIn](https://www.linkedin.com/in/benedict-setiawan-949390208/)
 
 <!---
