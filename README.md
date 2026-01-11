@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RattlePenguin, penultimate student and casual academic @ UNSW
-- 👀 I’m interested in Full Stack Software Engineering
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collaborate on Open Source Software, Games and other cool projects!
+- 👋 Hi, I’m @RattlePenguin, aspiring Software Engineer / Developer
+- 👀 I’m interested in turning my ideas into real apps that solve my problems
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to hone my skills and find real world experience
 - 📫 [My LinkedIn](https://www.linkedin.com/in/benedict-setiawan-949390208/)
 
 <!---
