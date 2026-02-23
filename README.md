@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RattlePenguin, aspiring Software Engineer / Developer
 - 👀 I’m interested in making little apps that make life easier
 - 🌱 I’m currently learning C++, C#
-- 💞️ I’m looking to hone my skills and find real world experience
+- 💞️ I’m looking for real world experience, open source
 - 📫 [My LinkedIn](https://www.linkedin.com/in/benedict-setiawan-949390208/)
 
 <!---
