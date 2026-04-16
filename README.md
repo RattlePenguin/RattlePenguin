@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, C#
 - 💞️ I’m looking for real world experience and open source opportunities
 - 📫 [My LinkedIn](https://www.linkedin.com/in/benedict-setiawan/)
-- ⭐ Take a look at some games and convenient apps I built!
+- ⭐ Take a look at some games and convenient apps I built!!
 
 <!---
 RattlePenguin/RattlePenguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
